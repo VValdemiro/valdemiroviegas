@@ -1,8 +1,11 @@
+
 .name {
     font-family: 'Flamenco', cursive;  
     font-size: 29px;
 }
 
-.home-image {
+.viegas {
     border-radius: 50%;
+    box-shadow: -0.87px 0.7px 30px rgb(157, 157, 157);
+    background-color: #f1f1f1;
 }
